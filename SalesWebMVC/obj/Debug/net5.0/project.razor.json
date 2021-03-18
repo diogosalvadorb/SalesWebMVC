@@ -15613,6 +15613,21 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\diogo\\OneDrive\\Documentos\\GitHub\\SalesWebMVC\\SalesWebMVC\\Views\\Departaments\\Edit.cshtml",
+      "TargetPath": "Views\\Departaments\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\diogo\\OneDrive\\Documentos\\GitHub\\SalesWebMVC\\SalesWebMVC\\Views\\Departaments\\Delete.cshtml",
+      "TargetPath": "Views\\Departaments\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\diogo\\OneDrive\\Documentos\\GitHub\\SalesWebMVC\\SalesWebMVC\\Views\\Departaments\\Create.cshtml",
+      "TargetPath": "Views\\Departaments\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\diogo\\OneDrive\\Documentos\\GitHub\\SalesWebMVC\\SalesWebMVC\\Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
       "FileKind": "mvc"
@@ -15628,6 +15643,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\diogo\\OneDrive\\Documentos\\GitHub\\SalesWebMVC\\SalesWebMVC\\Views\\Departaments\\Details.cshtml",
+      "TargetPath": "Views\\Departaments\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\diogo\\OneDrive\\Documentos\\GitHub\\SalesWebMVC\\SalesWebMVC\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
@@ -15635,6 +15655,11 @@
     {
       "FilePath": "c:\\Users\\diogo\\OneDrive\\Documentos\\GitHub\\SalesWebMVC\\SalesWebMVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\diogo\\OneDrive\\Documentos\\GitHub\\SalesWebMVC\\SalesWebMVC\\Views\\Departaments\\Index.cshtml",
+      "TargetPath": "Views\\Departaments\\Index.cshtml",
       "FileKind": "mvc"
     }
   ],
