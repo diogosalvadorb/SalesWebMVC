@@ -170,3 +170,4 @@ C:\Users\diogo\OneDrive\Documentos\GitHub\SalesWebMVC\SalesWebMVC\obj\Debug\net5
 C:\Users\diogo\OneDrive\Documentos\GitHub\SalesWebMVC\SalesWebMVC\obj\Debug\net5.0\Razor\Views\Departaments\Details.cshtml.g.cs
 C:\Users\diogo\OneDrive\Documentos\GitHub\SalesWebMVC\SalesWebMVC\obj\Debug\net5.0\Razor\Views\Departaments\Edit.cshtml.g.cs
 C:\Users\diogo\OneDrive\Documentos\GitHub\SalesWebMVC\SalesWebMVC\obj\Debug\net5.0\Razor\Views\Departaments\Index.cshtml.g.cs
+C:\Users\diogo\OneDrive\Documentos\GitHub\SalesWebMVC\SalesWebMVC\obj\Debug\net5.0\Razor\Views\Sellers\Index.cshtml.g.cs
